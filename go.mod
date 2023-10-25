@@ -12,4 +12,5 @@ require (
     github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.3.1
     github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/compute/armcompute/v4 v4.2.1
     github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/network/armnetwork/v2 v2.2.1
+    github.com/artifacthub/hub v1.15.0
 )
