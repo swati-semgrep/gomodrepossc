@@ -2,8 +2,6 @@ module github.com/anyscale/product
 
 go 1.21
 
-toolchain go1.21.3
-
 require (
     cloud.google.com/go/compute v1.23.0
     cloud.google.com/go/compute/metadata v0.2.3
